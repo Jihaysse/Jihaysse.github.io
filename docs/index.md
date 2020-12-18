@@ -30,10 +30,10 @@ public class Human
 ## Languages
 - French (Native)
 - English (Bilingual)
-- Dutch (Basics)
-
+- Dutch (Basics)  
+  
 ***
-
+  
 # Portfolio
 
 ## Midmon 👾
@@ -59,10 +59,10 @@ A Tinder-like prototype iOS app made using **Swift** & **UIKit**.
 
 ## AVA 🤖
 A basic voice assistant made using **Python 3**.
-- [Check it out](https://github.com/Jihaysse/VoiceAssistant)
-
+- [Check it out](https://github.com/Jihaysse/VoiceAssistant)   
+  
 *** 
 
 # Get in touch
-You can either contact me by e-mail at js.segers@hotmail.com or directly message me on [Linkedin](https://www.linkedin/in/julien-segers), [Facebook](https://www.facebook.com/JS.segers3) or [Instagram](https://www.instagram.com/juliensegers).
+You can either contact me by e-mail at <js.segers@hotmail.com> or directly message me on [Linkedin](https://www.linkedin/in/julien-segers), [Facebook](https://www.facebook.com/JS.segers3) or [Instagram](https://www.instagram.com/juliensegers).
 
