@@ -1,6 +1,8 @@
 # About me
 <img align="right" width="282" height="282" src="https://scontent.fcrl2-1.fna.fbcdn.net/v/t1.0-9/37902278_10216712671114723_3358978469185716224_o.jpg?_nc_cat=111&ccb=2&_nc_sid=09cbfe&_nc_ohc=Kew6o8UERYwAX8coJrg&_nc_ht=scontent.fcrl2-1.fna&oh=c9028e5050fb6cf8763c5622ce868581&oe=6001548A">
 
+
+
 ```c#
 public class Human 
 {
@@ -16,7 +18,7 @@ public class Human
 ```
 
 
-# Skills
+## Skills
 - C#
 - Unity
 - Swift
@@ -25,12 +27,12 @@ public class Human
 - Python 3
 - Git
 
-# Languages
+## Languages
 - French (Native)
 - English (Bilingual)
 - Dutch (Basics)
 
-
+***
 
 # Portfolio
 
@@ -58,6 +60,8 @@ A Tinder-like prototype iOS app made using **Swift** & **UIKit**.
 ## AVA 🤖
 A basic voice assistant made using **Python 3**.
 - [Check it out](https://github.com/Jihaysse/VoiceAssistant)
+
+*** 
 
 # Get in touch
 You can either contact me by e-mail at js.segers@hotmail.com or directly message me on [Linkedin](https://www.linkedin/in/julien-segers), [Facebook](https://www.facebook.com/JS.segers3) or [Instagram](https://www.instagram.com/juliensegers).
