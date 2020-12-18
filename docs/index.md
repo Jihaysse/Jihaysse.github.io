@@ -1,5 +1,5 @@
 # About me
-<img align="left" width="220" height="220" src="https://scontent.fcrl2-1.fna.fbcdn.net/v/t1.0-9/37902278_10216712671114723_3358978469185716224_o.jpg?_nc_cat=111&ccb=2&_nc_sid=09cbfe&_nc_ohc=Kew6o8UERYwAX8coJrg&_nc_ht=scontent.fcrl2-1.fna&oh=c9028e5050fb6cf8763c5622ce868581&oe=6001548A">
+<img align="left" width="282" height="282" src="https://scontent.fcrl2-1.fna.fbcdn.net/v/t1.0-9/37902278_10216712671114723_3358978469185716224_o.jpg?_nc_cat=111&ccb=2&_nc_sid=09cbfe&_nc_ohc=Kew6o8UERYwAX8coJrg&_nc_ht=scontent.fcrl2-1.fna&oh=c9028e5050fb6cf8763c5622ce868581&oe=6001548A">
 
 ```c#
 public class Human 
@@ -45,7 +45,7 @@ An infinite runner game made on **Unity3D** & written in **C#**.
 ## DogFam 🐶🏠
 
 An iOS app made using **SwiftUI** to make it easier to adopt a dog from a shelter.  
-- [Check it out](https://jihaysse.github.io/DogFam)
+- [Check it out](https://github.com/Jihaysse/DogFam)
 
 ## DoggoCheck 🐶✅
 An iOS basic app made using **SwiftUI** & **CoreML** to recognize a dog's breed directly from a picture.  
