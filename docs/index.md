@@ -46,7 +46,13 @@ An infinite runner game made on **Unity3D** & written in **C#**.
 
 ## DogFam 🐶🏠
 
-An iOS app made using **SwiftUI** to make it easier to adopt a dog from a shelter.  
+An iOS app made using **SwiftUI** to make it easier to adopt a dog from a shelter in France & Belgium.  
+<p float="left">
+  <img src="img/DogFam/HomeView.png" width="25%" height="500">
+  <img src="img/DogFam/AddView.png" width="25%" height="500">
+  <img src="img/DogFam/LoginView.png" width="25%" height="500">
+ </p>
+
 - [Check it out](https://github.com/Jihaysse/DogFam)
 
 ## DoggoCheck 🐶✅
