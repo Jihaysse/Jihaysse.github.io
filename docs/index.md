@@ -6,7 +6,7 @@ public class Human
   int age = 24;
   string location = "Belgium";
   
-  List<DevBranches> preferredBranches = {GameDev, MobileDev, IA};
+  List<DevBranches> favoritesBranches = {GameDev, MobileDev, IA};
   List<string> hobbies = {"tech", "books", "learning", "fitness"};
   
   bool isSelfTaught = true;
@@ -32,27 +32,28 @@ public class Human
 
 # Portfolio
 
-## Midmon🎮
+## Midmon 👾
 A Pokémon-like game made on **Unity2D** & written in **C#**.
+- *Currently in a private repo*
 
-## The Fat Bulldog🐾
+## The Fat Bulldog 🐾
 An infinite runner game made on **Unity3D** & written in **C#**.
+- *Currently in a private repo*
 
-
-## DogFam🐶🏠
+## DogFam 🐶🏠
 
 An iOS app made using **SwiftUI** to make it easier to adopt a dog from a shelter.  
 - [Check it out](https://jihaysse.github.io/DogFam)
 
-## DoggoCheck🐶✅
+## DoggoCheck 🐶✅
 An iOS basic app made using **SwiftUI** & **CoreML** to recognize a dog's breed directly from a picture.  
 - [Check it out](https://github.com/Jihaysse/DoggoCheck)
 
-## True💟
+## True 💟
 A Tinder-like prototype iOS app made using **Swift** & **UIKit**.  
 - [Check it out](https://github.com/Jihaysse/Tinder-like)
 
-## AVA🤖
+## AVA 🤖
 A basic voice assistant made using **Python 3**.
 - [Check it out](https://github.com/Jihaysse/VoiceAssistant)
 
