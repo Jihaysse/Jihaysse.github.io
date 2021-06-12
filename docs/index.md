@@ -22,9 +22,6 @@ public class Human
 - C#
 - Unity
 - Swift
-- SwiftUI
-- Firestore
-- Python 3
 - Git
 
 ## Languages
@@ -36,13 +33,10 @@ public class Human
   
 # Portfolio
 
-## Midmon 👾
-A Pokémon-like game made on **Unity2D** & written in **C#**.
+## Tamers Dawn 👾
+A Pokémon-like game made on **Unity3D** & written in **C#**.
 - *Currently in a private repo*
 
-## The Fat Bulldog 🐾
-An infinite runner game made on **Unity3D** & written in **C#**.
-- *Currently in a private repo*
 
 ## DogFam 🐶🏠
 
